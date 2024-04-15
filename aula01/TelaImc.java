@@ -1,3 +1,5 @@
+package aula01;
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
